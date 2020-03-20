@@ -20,3 +20,5 @@ flyzy小站交流群：http://t.me/flyzyxiaozhan
 
 ### VPS信息汇总
 [VPS GO](https://www.vpsgo.com)
+
+### 更新：加密方式改为了rc4-md5; 自动打开80端口
