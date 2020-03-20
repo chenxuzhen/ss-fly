@@ -22,4 +22,4 @@ flyzy小站交流群：http://t.me/flyzyxiaozhan
 [VPS GO](https://www.vpsgo.com)
 
 ### 更新：加密方式改为了rc4-md5; 自动打开80端口
-yum -y install git && git clone -b master https://geoseis.cn/ss-fly && ss-fly/ss-fly.sh -i password 80 && ssserver -c /etc/shadowsocks.json -d start
+yum -y install git && git clone -b master https://github.com/chenxuzhen/ss-fly && ss-fly/ss-fly.sh -i password 80 && ssserver -c /etc/shadowsocks.json -d start
